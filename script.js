@@ -1,3 +1,3 @@
 alert("Hello Class");
 
-alert ("hello + 1/3)"):
+alert ("hello + 1/3)");
